@@ -1,0 +1,10 @@
+| 补丁 | 说明 |
+| :---: | :---: |
+| st-alpha-0.8.2.diff | 终端透明 |
+| st-anysize-0.8.1.diff | 修正终端大小 |
+| st-clipboard-0.8.2.diff | 终端剪切版和系统剪切板互通 |
+| st-desktopentry-0.8.2.diff | 生成桌面快捷图标 |
+| st-dracula-0.8.2.diff | 字体颜色紫色主题 |
+| st-font2-20190416-ba72400.diff | 图标字体瑕疵修复 |
+| st-hidecursor-0.8.1.diff | 自动隐藏鼠标 |
+| st-scrollback-20200504-28ad288.diff | 终端滚动 |
